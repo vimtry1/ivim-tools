@@ -1,7 +1,10 @@
-# iVim Setting
+# iVim Tools
 
 ## Description
-This repository is a sample of iVim setting.
+This repository is some scripts for iVim.
 
 ## See this follow page
-[iPad で iVim はどこまで使える？](https://vim.blue/ivim-ios-ipad/)
+[iVimで利用できるPythonとPythonモジュールは？](
+https://vim.blue/ivim-python-modules)
+[iVimでZIPファイルを解凍・圧縮する方法](https://vim.blue/ivim-zip-unzip/)
+[iVimへGitHubから直接プラグインをインストールする方法](https://vim.blue/ivim-plugin-install-remove/)
